@@ -1,0 +1,69 @@
+time 10 to 1
+--------------
+
+How much it has
+
+	menus
+	---------
+		1. plans 			- currently not available
+		2.kenko corporate		- details of our work
+		3.our network			- currently not available 
+			-> doctors
+			-> medical stores
+		4. map of our network		- currently not available
+		5. knowledge center			
+				- blog
+				- usage policy	- currently not available	
+	
+
+	How kenko web organised
+		1. what they give
+		2. plan benefits
+		3. plan details
+		
+	
+------------------------
+Execution
+--------------------
+
+	1. Target audience
+		1. general public , govt officers and senior citizens
+		
+
+	--------
+	Get a template
+		- hit the main points
+		
+	what client wants ?
+
+		1. Multipage
+		2. mobile friendly
+		3. Informative and professional
+		4. Serve what they actually give
+		5. Future feature update benefits
+
+--------------
+I want to do it in 2 hours ct-10:26 eta-12:26
+	
+	How ?
+			find the template - found many templates till - 10:50 means - 24 mins - result - no any better found
+			Change it with current state of mind 
+			Filfull the requirement
+
+	Execution - ct-11:14 eta-12:31						
+		- Custom bootstrap 5 with benefits	
+		
+	Pages
+		1. Home
+		2. benefits
+		3. Know about 
+		4. Team
+		5. get in touch
+
+	
+
+
+
+		
+	
+		
